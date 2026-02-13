@@ -1,12 +1,13 @@
 # Awesome-Model-Quantization
 
-This repository contains low-bit quantization papers from 2020 to 2025.
+This repository contains low-bit quantization papers from 2020 to 2026.
 
 ## Table of Contents
 - [Awesome-Model-Quantization](#awesome-model-quantization)
   - [Table of Contents](#table-of-contents)
   - [Survey](#survey)
   - [Papers](#papers)
+    - [2026](#2026)
     - [2025](#2025)
     - [2024](#2024)
     - [2023](#2023)
@@ -20,6 +21,54 @@ This repository contains low-bit quantization papers from 2020 to 2025.
 
 ## Papers
 
+### 2026
+- [ICLR 2026](https://openreview.net/pdf?id=yjr2jX41qO) Channel-Aware Mixed-Precision Quantization for Efficient Long-Context Inference 
+- [ICLR 2026](https://openreview.net/pdf?id=ATpchFiBQi) CodeQuant: Unified Clustering and Quantization for Enhanced Outlier Smoothing in Low-Precision Mixture-of-Experts 
+- [ICLR 2026](https://arxiv.org/pdf/2510.11696v1) QeRL: Beyond Efficiency - Quantization-enhanced Reinforcement Learning for LLMs [[code](https://github.com/NVlabs/QeRL)] ![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/QeRL)
+- [ICLR 2026](https://arxiv.org/pdf/2602.03782) AutoQVLA: Not All Channels Are Equal in Vision-Language-Action Model's Quantization 
+- [ICLR 2026](https://openreview.net/pdf?id=g2l9bg9DWx) Achieving low-bit Muon through subspace preservation and grid quantization 
+- [ICLR 2026](https://openreview.net/forum?id=DAZvMAlZRp) Shift-and-Sum Quantization for Visual Autoregressive Models 
+- [ICLR 2026](https://arxiv.org/pdf/2602.03472) Inlier-Centric Post-Training Quantization for Object Detection Models 
+- [ICLR 2026](https://openreview.net/pdf?id=yiMlVBAoQi) Efficient Quantization of Mixture-of-Experts with Theoretical Generalization Guarantees 
+- [ICLR 2026](https://openreview.net/pdf?id=tY9yPAT3PU) BBQ: Boosting Quantization Entropy with Bell Box Quantization 
+- [ICLR 2026](https://arxiv.org/pdf/2505.06653) Improving Block-Wise LLM Quantization by 4-bit Block-Wise Optimal Float (BOF4): Analysis and Variations [[code](https://github.com/ifnspaml/bof4)] ![GitHub Repo stars](https://img.shields.io/github/stars/ifnspaml/bof4)
+- [ICLR 2026](https://arxiv.org/pdf/2510.18259) Learning under Quantization for High-Dimensional Linear Regression 
+- [ICLR 2026](https://arxiv.org/pdf/2509.25214) On-the-Fly Adaptation to Quantization: Configuration-Aware LoRA for Efficient Fine-Tuning of Quantized LLMs 
+- [ICLR 2026](https://arxiv.org/pdf/2509.23202) Bridging the Gap Between Promise and Performance for FP4 Quantization [[code](https://github.com/IST-DASLab/FP-Quant)] ![GitHub Repo stars](https://img.shields.io/github/stars/IST-DASLab/FP-Quant)
+- [ICLR 2026](https://arxiv.org/pdf/2602.11184) KBVQ-MoE: KLT-guided SVD with Bias-Corrected Vector Quantization for MoE Large Language Models [[code](https://github.com/xuzukang/kbvq_moe)] ![GitHub Repo stars](https://img.shields.io/github/stars/xuzukang/kbvq_moe)
+- [ICLR 2026](https://arxiv.org/pdf/2511.10645) ParoQuant: Pairwise Rotation Quantization for Efficient Reasoning LLM Inference 
+- [ICLR 2026](https://arxiv.org/pdf/2506.10840) Post-Training Quantization for Video Matting [[code](https://github.com/trzhu11/Post-Training-Quantization-for-Video-Matting)] ![GitHub Repo stars](https://img.shields.io/github/stars/trzhu11/Post-Training-Quantization-for-Video-Matting)
+- [ICLR 2026](https://arxiv.org/pdf/2509.23809) Tequila: Deadzone-free Ternary Quantization for Large Language Models [[code](https://github.com/Tencent/AngelSlim)] ![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/AngelSlim)
+- [ICLR 2026](https://arxiv.org/pdf/2503.02508) Q&C: When Quantization Meets Cache in Efficient Generation 
+- [ICLR 2026](https://openreview.net/pdf?id=V85HbymBLW) LogART: Pushing the Limit of Efficient Logarithmic Post-Training Quantization 
+- [ICLR 2026](https://arxiv.org/pdf/2510.03274) Quant-dLLM: Post-Training Extreme Low-Bit Quantization for Diffusion Large Language Models [[code](https://github.com/ZTA2785/Quant-dLLM)] ![GitHub Repo stars](https://img.shields.io/github/stars/ZTA2785/Quant-dLLM)
+- [ICLR 2026](https://openreview.net/pdf?id=YNqZqw4fLT) SliderQuant: Accurate Post-Training Quantization for LLMs 
+- [ICLR 2026](https://arxiv.org/pdf/2510.10467) AnyBCQ: Hardware Efficient Flexible Binary-Coded Quantization for Multi-Precision LLMs [[code](https://github.com/naver-aics/anybcq)] ![GitHub Repo stars](https://img.shields.io/github/stars/naver-aics/anybcq)
+- [ICLR 2026](https://arxiv.org/pdf/2512.03383) UniQL: Unified Quantization and Low-rank Compression for Adaptive Edge LLMs [[code](https://github.com/enyac-group/UniQL)] ![GitHub Repo stars](https://img.shields.io/github/stars/enyac-group/UniQL)
+- [ICLR 2026](https://arxiv.org/pdf/2508.01077) The Lattice Geometry of Neural Network Quantization: A Short Equivalence Proof of GPTQ and Babai's algorithm 
+- [ICLR 2026](https://arxiv.org/pdf/2509.03472) DPQuant: Efficient and Private Model Training via Dynamic Quantization Scheduling 
+- [ICLR 2026](https://openreview.net/pdf/ee0ea14cd2283b1fee1902a6811796b443849c5c.pdf) Towards Quantization-Aware Training for Ultra-Low-Bit Reasoning LLMs 
+- [ICLR 2026](https://arxiv.org/pdf/2510.21314) A Convergence Analysis of Adaptive Optimizers under Floating-point Quantization 
+- [ICLR 2026](https://arxiv.org/pdf/2510.06213) Training Dynamics Impact Post-Training Quantization Robustness [[code](https://github.com/aldakata/TrainingDynamicsQuantizationRobustness)] ![GitHub Repo stars](https://img.shields.io/github/stars/aldakata/TrainingDynamicsQuantizationRobustness)
+- [ICLR 2026](https://openreview.net/pdf?id=pjMDZJd4rT) SSDi8: Accurate and Efficient 8-bit Quantization for State Space Duality 
+- [ICLR 2026](https://arxiv.org/pdf/2507.18553) The Geometry of LLM Quantization: GPTQ as Babai's Nearest Plane Algorithm 
+- [ICLR 2026](https://arxiv.org/pdf/2601.21238) PTQ4ARVG: Post-Training Quantization for AutoRegressive Visual Generation Models [[code](https://github.com/BienLuky/PTQ4ARVG)] ![GitHub Repo stars](https://img.shields.io/github/stars/BienLuky/PTQ4ARVG)
+- [ICLR 2026](https://arxiv.org/pdf/2602.03472) Inlier-Centric Post-Training Quantization for Object Detection Models 
+- [ICLR 2026](https://arxiv.org/pdf/2509.17428) QWHA: Quantization-Aware Walsh-Hadamard Adaptation for Parameter-Efficient Fine-Tuning on Large Language Models [[code](https://github.com/vantaa89/qwha)] ![GitHub Repo stars](https://img.shields.io/github/stars/vantaa89/qwha)
+- [ICLR 2026](https://arxiv.org/pdf/2602.01289) Gradient-Aligned Calibration for Post-Training Quantization of Diffusion Models 
+- [ICLR 2026](https://openreview.net/pdf?id=nFjj8NEBqv) SERQ: Saliency-Aware Low-Rank Error Reconstruction for LLM Quantization 
+- [ICLR 2026](https://arxiv.org/pdf/2509.22935) Compute-Optimal Quantization-Aware Training 
+- [ICLR 2026](https://arxiv.org/pdf/2505.18610) PM-KVQ: Progressive Mixed-precision KV Cache Quantization for Long-CoT LLMs [[code](https://github.com/thu-nics/PM-KVQ)] ![GitHub Repo stars](https://img.shields.io/github/stars/thu-nics/PM-KVQ)
+- [ICLR 2026](https://arxiv.org/pdf/2509.11177) Optimal Brain Restoration for Joint Quantization and Sparsification of LLMs [[code](https://github.com/csguoh/OBR)] ![GitHub Repo stars](https://img.shields.io/github/stars/csguoh/OBR)
+- [ICLR 2026](https://arxiv.org/abs/2509.23500) Beyond Outliers: A Study of Optimizers Under Quantization 
+- [ICLR 2026](https://arxiv.org/pdf/2505.11695) Qronos: Correcting the Past by Shaping the Future... in Post-Training Quantization 
+- [ICLR 2026](https://arxiv.org/pdf/2508.02343) MicroMix: Efficient Mixed-Precision Quantization with Microscaling Formats for Large Language Models [[code](https://github.com/lwy2020/MicroMix)] ![GitHub Repo stars](https://img.shields.io/github/stars/lwy2020/MicroMix)
+- [ICLR 2026](https://arxiv.org/pdf/2602.04929) TurboBoA: Faster and Exact Attention-aware Quantization without Backpropagation 
+- [ICLR 2026](https://arxiv.org/pdf/2505.18663) DVD-Quant: Data-free Video Diffusion Transformers Quantization [[code](https://github.com/lhxcs/DVD-Quant)] ![GitHub Repo stars](https://img.shields.io/github/stars/lhxcs/DVD-Quant)
+- [ICLR 2026](https://openreview.net/pdf?id=FDdOD3qwS7) Beyond Uniformity: Sample and Frequency Meta Weighting for Post-Training Quantization of Diffusion Models 
+- [ICLR 2026](https://openreview.net/pdf?id=LWYZ1nNkJl) Rethinking Residual Errors in Compensation-based LLM Quantization 
+- [ICLR 2026](https://openreview.net/pdf?id=8tDIzHFOx6) SPR^2Q: Static Priority-based Rectifier Routing Quantization for Image Super-Resolution [[code](https://github.com/momo5-a11/SPR2Q)] ![GitHub Repo stars](https://img.shields.io/github/stars/momo5-a11/SPR2Q)
+- [ICLR 2026](https://arxiv.org/pdf/2510.26771) STaMP: Sequence Transformation and Mixed Precision for Low-Precision Activation Quantization 
 
 
 ### 2025
