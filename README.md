@@ -67,9 +67,9 @@ This repository contains low-bit quantization papers from 2020 to 2026.
 - [ICLR 2026](https://arxiv.org/pdf/2505.18663) DVD-Quant: Data-free Video Diffusion Transformers Quantization [[code](https://github.com/lhxcs/DVD-Quant)] ![GitHub Repo stars](https://img.shields.io/github/stars/lhxcs/DVD-Quant)
 - [ICLR 2026](https://openreview.net/pdf?id=FDdOD3qwS7) Beyond Uniformity: Sample and Frequency Meta Weighting for Post-Training Quantization of Diffusion Models 
 - [ICLR 2026](https://openreview.net/pdf?id=LWYZ1nNkJl) Rethinking Residual Errors in Compensation-based LLM Quantization 
-- [ICLR 2026](https://openreview.net/pdf?id=8tDIzHFOx6) SPR^2Q: Static Priority-based Rectifier Routing Quantization for Image Super-Resolution [[code](https://github.com/momo5-a11/SPR2Q)] ![GitHub Repo stars](https://img.shields.io/github/stars/momo5-a11/SPR2Q)
+- [ICLR 2026](https://openreview.net/pdf?id=8tDIzHFOx6) SPR²Q: Static Priority-based Rectifier Routing Quantization for Image Super-Resolution [[code](https://github.com/momo5-a11/SPR2Q)] ![GitHub Repo stars](https://img.shields.io/github/stars/momo5-a11/SPR2Q)
 - [ICLR 2026](https://arxiv.org/pdf/2510.26771) STaMP: Sequence Transformation and Mixed Precision for Low-Precision Activation Quantization 
-
+- [ICLR 2026](https://arxiv.org/abs/2510.03267) PT²-LLM: Post-Training Ternarization for Large Language Models [[code](https://github.com/XIANGLONGYAN/PT2-LLM)] ![GitHub Repo stars](https://img.shields.io/github/stars/XIANGLONGYAN/PT2-LLM)
 
 ### 2025
 - [NeurIPS 2025](https://neurips.cc/virtual/2025/poster/119764) QBasicVSR: Temporal Awareness Adaptation Quantization for Video Super-Resolution 
